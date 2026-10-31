@@ -1,0 +1,1 @@
+<% response.sendRedirect("VitrineServlet?action=lister"); %>
